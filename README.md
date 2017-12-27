@@ -7,3 +7,6 @@ you can download database from [here
 
 You can read detail post at [buffernow.com
 ](http://buffernow.com/cascading-dropdown-ajax/)
+
+[Live demo](http://buffernow.com/demo/cascadedrpdwn/)
+
